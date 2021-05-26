@@ -1,0 +1,22 @@
+VEG                              2.24
+FRESH GARLIC PACKET 880          3.60
+______________________________________
+Grand Total                     25.32
+______________________________________
+Number Of Items                     9
+
+        VAT Summary Breakdown
+    
+      VAT%     Total       VAT Value
+      0.00      25.37        0.00
+    
+  Payment Details
+  Paid By Card                  25.37
+  Change                         0.00
+    You have been Served by Mr. KARI
+
+Till No. Till2
+     ||  | ||| ||| ||| ||| ||| || |||
+     16/05/2021 16:34:24
+             W. H. LUNG
+         WHLUNG SUPERMARKET
